@@ -33,7 +33,7 @@ Experience across **Revolut, Fidelity Investments, and Quants AG**, managing por
 - **Monte Carlo Risk Engine (CUDA)**  
   GPU-accelerated simulation for VaR / CVaR (500k+ paths)
 
-- **GPU-accelerated multi-asset Global Minimum Variance optimizer in C++/CUDA **  
+- **GPU-accelerated multi-asset Global Minimum Variance optimizer in C++/CUDA**  
 
 - **End-to-End AI Investment Pipeline**  
   Azure + Kubernetes infrastructure for real-time signals & portfolio decisions  
