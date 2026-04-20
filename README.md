@@ -61,7 +61,7 @@ Experience across **Revolut, Fidelity Investments, and Quants AG**, managing por
 
 - CFA Charterholder (2026)  
 - AI for Trading Nanodegree (Udacity)  
-
+- Value Investing: Making smarter Investment decisions (Columbia Business School)
 ---
 
 ## Focus
