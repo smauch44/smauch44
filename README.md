@@ -54,7 +54,7 @@ Experience across **Revolut, Fidelity Investments, and Quants AG**, managing por
 - MSc Artificial Intelligence — Johns Hopkins University (2026)  
 - MSc Business Analytics — Imperial College London (2022) 
 - MSc Finance — International University of Monaco (2020)
-
+- BSc Insurance & Finance — Wiesbaden Business School (2016)
 ---
 
 ## Certifications
