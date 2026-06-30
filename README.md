@@ -9,9 +9,11 @@
 ---
 
 ## About
+Portfolio Manager, CFA Charterholder, and AI researcher working at the intersection of **investment management, artificial intelligence, and quantitative finance**.
 
-Multi-asset portfolio manager with a focus on **AI-driven investing, systematic strategies, and quantitative research**.  
-Experience across **Revolut, Fidelity Investments, and Quants AG**, managing portfolios spanning equities, fixed income, and FX.
+My work focuses on designing scalable, data-driven investment systems that combine fundamental analysis, machine learning, portfolio optimization, and modern software engineering to improve investment decision-making across multi-asset portfolios.
+
+I am the author of **Computational Value Investing: How Artificial Intelligence Is Transforming Stock Selection, Valuation and Portfolio Management** and **Computational Value Investing: Building, Reading and Running the Computational Value Investing Terminal**, introducing a practical framework for integrating AI into institutional investment processes.
 
 ---
 
