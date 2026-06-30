@@ -15,13 +15,16 @@ Experience across **Revolut, Fidelity Investments, and Quants AG**, managing por
 
 ---
 
-## Key Areas
+## Areas of Expertise
 
-- Multi-Asset Portfolio Management  
-- Quantitative & Systematic Strategies  
-- Machine Learning for Finance  
-- Portfolio Optimization & Risk Management  
-- AI & Data-Driven Investment Pipelines  
+- Multi-Asset Portfolio Management
+- Systematic & Quantamental Investing
+- AI-Driven Fundamental Investing
+- Machine Learning for Financial Markets
+- Portfolio Construction & Optimization
+- Risk Management
+- Factor Investing
+- Financial Data Engineering
 
 ---
 
@@ -40,6 +43,12 @@ Experience across **Revolut, Fidelity Investments, and Quants AG**, managing por
 
 ---
 
+
+### AI-Driven Fundamental Investing
+
+End-to-end stock selection framework using ensemble learning, deep learning and alternative data.
+
+---
 ## Tech Stack
 
 **Languages:** Python, SQL, R  
@@ -67,3 +76,18 @@ Experience across **Revolut, Fidelity Investments, and Quants AG**, managing por
 ## Focus
 
 Building **scalable, AI-powered investment systems** that enhance portfolio performance and decision-making.
+
+---
+
+## Publications
+
+### 2026
+
+📘 **Computational Value Investing: How Artificial Intelligence Is Transforming Stock Selection, Valuation and Portfolio Management**
+
+A comprehensive framework integrating value investing principles with machine learning, quantitative research, and portfolio construction.
+
+
+📗 **Computational Value Investing: Building, Reading and Running the Computational Value Investing Terminal**
+
+A full-color technical implementation guide covering data engineering, AI models, portfolio optimization, system architecture, and the Computational Value Investing Terminal.
